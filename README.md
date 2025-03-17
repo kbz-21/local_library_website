@@ -14,7 +14,7 @@ This project is a simple Django web application designed to manage a local libra
 
 Follow these steps to set up the project on your local machine.
 
-### 1. Clone the repository
+### 1. Clone the repository..
 
 ```bash
 git clone https://github.com/kbz-21/local_library_website.git
